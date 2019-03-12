@@ -1,17 +1,4 @@
-.header img{
-float:left;
-font-family:monospace;
-width: 100px;
-height: 100px;
-background: #555;
-}
 
-.header h1 {
-position: relative;
-font-family:monospace;
-top: 18px;
-left: 10px;
-}
 #list li {
   font-family: monospace;
 }
