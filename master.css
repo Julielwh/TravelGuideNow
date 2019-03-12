@@ -1,6 +1,10 @@
 h1{
+  text-align: center;
   font-family: monospace;
 }
 #list li {
+  display: inline;
+  margin: 10px;
+text-align: right;
   font-family: monospace;
 }
