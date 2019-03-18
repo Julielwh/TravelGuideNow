@@ -22,5 +22,13 @@ color: gray;
 div.banner { float: right; width: 100px; height: 400px; }
 
 h2 {
+font-family:monospace;
+color:black;
 
+}
+
+.sicily {
+  color:black;
+  float:left;
+  font-family:monospace;
 }
