@@ -18,3 +18,5 @@ text-align: right;
 text-decoration: none;
 color: gray;
 }
+
+div.banner { float: right; width: 100px; height: 400px; }
