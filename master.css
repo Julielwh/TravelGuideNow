@@ -39,3 +39,14 @@ text-align: center;
 .post {
 width: 50vw;
 }
+
+.andetpost{
+  width: 50vw;
+}
+
+.london{
+  color:black;
+  float:right;
+  font-family:monospace;
+  text-align: right;
+}
