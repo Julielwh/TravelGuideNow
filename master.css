@@ -25,7 +25,7 @@ h2 {
 font-family:monospace;
 color:black;
 height:30px;
-width: 50vw;
+text-align: center;
 
 
 }
@@ -34,7 +34,7 @@ width: 50vw;
   color:black;
   float:left;
   font-family:monospace;
-  text-align; left;
+  text-align: left;
 }
 .post {
 width: 50vw;
