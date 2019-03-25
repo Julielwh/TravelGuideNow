@@ -42,6 +42,7 @@ width: 50vw;
 
 .andetpost{
   width: 50vw;
+  text-align:right; 
 }
 
 .london{
@@ -55,5 +56,5 @@ h3{
 font-family: monospace;
 color:black;
 height:30pc;
-text-align: center; 
+text-align: center;
 }
