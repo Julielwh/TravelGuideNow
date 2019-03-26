@@ -44,6 +44,7 @@ text-align: center;
 width: 45vw;
 box-sizing: content-box;
 border: .25vw solid hsl(1deg,50%,0%);
+
 }
 .post img {
   width: 45vw;
@@ -53,11 +54,10 @@ border: .25vw solid hsl(1deg,50%,0%);
 .post p {
   font-family:monospace;
  font-variant: cursive;
+ color:black;
 }
-.post p em {
-  background-color: black;
-  color: white;
-}
+
+
 
 
 
