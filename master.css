@@ -1,3 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  }
+
 body{
 color:blue;
 }
@@ -30,32 +35,34 @@ text-align: center;
 
 }
 
-.sicily {
-  color:black;
-  float:left;
-  font-family:monospace;
-  text-align: left;
+.wrapper {
+  display: flex;
+  justify-content: space-around;
 }
+
 .post {
-width: 50vw;
+width: 45vw;
+box-sizing: content-box;
+border: .25vw solid hsl(1deg,50%,0%);
 }
-
-.andetpost{
-  width: 50vw;
-  text-align:right;
-right:100px;
+.post img {
+  width: 45vw;
+  height: 45vw;
+  object-fit: cover;
 }
-
-.london{
-  color:black;
-  float:right;
+.post p {
   font-family:monospace;
-  text-align: right;
+ font-variant: cursive;
+}
+.post p em {
+  background-color: black;
+  color: white;
 }
 
-h3{
+
+
+.post h2 {
 font-family: monospace;
 color:black;
-height:50px;
 text-align: center;
 }
