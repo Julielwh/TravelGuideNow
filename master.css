@@ -15,13 +15,14 @@ lilla
 #list li {
   display: inline;
   margin: 24px;
-text-align: right;
+text-align: center;
   font-family: monospace;
 
 }
 #list a {
 text-decoration: none;
 color: gray;
+text-align: center;
 }
 
 div.banner { float: right; width: 100px; height: 400px; }
